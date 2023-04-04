@@ -1,3 +1,7 @@
 "The albu deas with teh themes of the rist of computers within society"
+<<<<<<< HEAD
 
 "Why is this not updated"
+=======
+"In two photos, the mannequin representing Karl Bartos".....
+>>>>>>> 220d4ab78c81983e2a2d43f6a2e66c9f3426c6a2
